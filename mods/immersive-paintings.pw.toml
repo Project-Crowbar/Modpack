@@ -1,0 +1,13 @@
+name = "Immersive Paintings"
+filename = "immersive_paintings-neoforge-1.21.1-0.7.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8194870
+project-id = 639584

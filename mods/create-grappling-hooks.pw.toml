@@ -1,0 +1,13 @@
+name = "Create Grappling Hooks"
+filename = "create_grappling_hooks-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fadb1d2f58a416d747eaa6dd9bfc97fa70ba722"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8258403
+project-id = 1575763

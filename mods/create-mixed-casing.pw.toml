@@ -1,0 +1,13 @@
+name = "Create: Mixed Casing"
+filename = "create_mixed_casing-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3eb6a839d3fc192f17f465065a07a4263d1944f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7892181
+project-id = 1321083

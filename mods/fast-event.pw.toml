@@ -1,0 +1,13 @@
+name = "FastEvent"
+filename = "FastEvent-1.21.1-neoforge-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88e896581c2284a5d804359deebee98534ab1fd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6531468
+project-id = 1249053

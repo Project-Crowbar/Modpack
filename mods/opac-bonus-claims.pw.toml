@@ -1,0 +1,13 @@
+name = "OPAC Bonus Claims"
+filename = "opacbonusclaims-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c2c5ceb8d5b6df49741fd0bc1f3cf6a2f867718"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7284668
+project-id = 1365663

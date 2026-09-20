@@ -1,0 +1,13 @@
+name = "Sculk Muffler"
+filename = "sculkmuffler-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ea59d0e53eaba3fcb05fdc7ecc6535411e92924"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7072391
+project-id = 1359864

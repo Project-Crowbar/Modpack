@@ -1,0 +1,13 @@
+name = "TrafficCraft"
+filename = "trafficcraft-neoforge-1.21.1-beta-1.2.0+3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb27115a8f1feb61d5c328b8268be0f3b37649b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7754967
+project-id = 852322

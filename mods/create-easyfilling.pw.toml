@@ -1,0 +1,13 @@
+name = "Create: EasyFilling"
+filename = "create-easyfilling-dypiduo-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbb2f0fc5deec9c4265c54e98c63c0869163e3e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7977843
+project-id = 1381155

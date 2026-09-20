@@ -1,0 +1,13 @@
+name = "Extra Delight"
+filename = "extradelight-2.6.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a04ddf96b39a0f909d4184d326cc09c54650737d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8261063
+project-id = 842106

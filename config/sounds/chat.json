@@ -1,0 +1,29 @@
+{
+	"typingSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.1,
+		"id": "typing",
+		"soundEvent": "create:confirm_2"
+	},
+	"messageSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.1,
+		"id": "message",
+		"soundEvent": "cccbridge:cage_unlock"
+	},
+	"mentionSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.8,
+		"volume": 0.9,
+		"id": "mention",
+		"soundEvent": "minecraft:block.note_block.chime"
+	},
+	"mentionKeywords": [
+		"@Ni1kk"
+	],
+	"ignoreSystemChats": true,
+	"enableChatSoundCooldown": false,
+	"chatSoundCooldown": 0.5
+}

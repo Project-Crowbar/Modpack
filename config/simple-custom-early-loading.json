@@ -1,0 +1,82 @@
+// Check documentation for more information with examples
+// https://github.com/lukaskabc/SimpleCustomEarlyLoading#configuration
+{
+  // texture elements to render
+  "elements": [
+    // note that order matters - elements are rendered from top to bottom
+    // lower elements will be rendered over the higher ones
+    {
+      // example background
+      // you can also specify multiple images from which a random one will be picked
+      // "image": ["stellarview.png", "another.png", "yet_another.png"],
+      "image": "OuluAuroraByNikk.jpeg",
+      "position": {
+        // define which point in the image should be aligned at x, y position on the window
+        // Possible values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CENTER, TOP_CENTER, BOTTOM_CENTER, LEFT_CENTER, RIGHT_CENTER
+        "position_anchor": "TOP_LEFT",
+        // The unit for x, y position PIXELS or PERCENTAGE (percentage of the window values: 0-100)
+        // the position unit can also be defined for each coordinate separately position_unit_x, position_unit_y
+        "position_unit": "PIXELS",
+        // The position of the anchor on the screen in position_unit
+        "x": 0,
+        "y": 0,
+        // The unit for width, height - PIXELS or PERCENTAGE (again, percantage of the window) - can't be defined separately
+        "size_unit": "PERCENTAGE",
+        // "keep_aspect_ratio": false, // to disable maintaining aspect ratio (enabled by default)
+        // The width and height of the image in size_unit
+        // if you specify both values, the aspect ratio is not preserved
+        // if you specify only one value, the other is calculated to preserve the aspect ratio
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      // the loading text should be centered and poistioned at 60% from the top of the window
+      // loading.png is also available if you want the text without animation
+      "image": "project_crowbar_title.png",
+      "position": {
+        // using bottom center alignes the bottom of the loading text to the 60%
+        // this comes handy as we want to render the loading bar below it
+        "position_anchor": "TOP_CENTER",
+        "position_unit": "PERCENTAGE",
+        "x": 50,
+        "y": 20,
+        "size_unit": "PERCENTAGE",
+        // the loading text should be 25% of the window width
+        "width": 60
+      }
+    },
+    {
+      // the loading text should be centered and poistioned at 60% from the top of the window
+      // loading.png is also available if you want the text without animation
+      "image": "prcb_anim.apng",
+      "position": {
+        // using bottom center alignes the bottom of the loading text to the 60%
+        // this comes handy as we want to render the loading bar below it
+        "position_anchor": "TOP_CENTER",
+        "position_unit": "PERCENTAGE",
+        "x": 90,
+        "y": 69,
+        "size_unit": "PERCENTAGE",
+        // the loading text should be 25% of the window width
+        "width": 15
+      }
+    }
+  ],
+  // "progress_bar": null to remove the default progress bar element
+  "progress_bar": {
+    // 3 is also default when the value is not specified
+    "bar_count": 1,
+    "position": {
+      "position_anchor": "TOP_CENTER",
+      "position_unit": "PERCENTAGE",
+      "x": 50,
+      "y": 50
+      // custom width and height is not supported
+    }
+  },
+  "performance_bar": false,
+  "fox": false,
+  "log_messages": false,
+  "forge_version": false
+}

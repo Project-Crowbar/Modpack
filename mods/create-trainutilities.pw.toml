@@ -1,0 +1,13 @@
+name = "Create Train Utilities (Create Train Doors)"
+filename = "trainutilities-neoforge-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53d0610eb9e0d9d9ba66d96c36802d027adabd26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7779640
+project-id = 1028420

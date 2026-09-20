@@ -1,0 +1,13 @@
+name = "WATERViSION: Videoplayer"
+filename = "watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fc5620a518583b8a7ea293a6d79584861e75335"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7043267
+project-id = 1167473

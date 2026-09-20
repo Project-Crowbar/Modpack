@@ -1,0 +1,13 @@
+name = "Project Crowbar"
+author = "Nikk"
+version = "260907"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6ca32f1fb425898fa32703a1363961826873a658a5aee9d56be6b7ba7c2e9549"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
