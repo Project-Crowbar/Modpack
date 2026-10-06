@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "de0dac3cc910672d3594bf1bb1b111f0a8172e03edad122ac5228b8b06a65fc9"
+
+[[files]]
 file = "config/ars_nouveau-client.toml"
 hash = "ced071866bbd252acbe3595b4288e28c011429878c0e4e6a1490c0f3a4eb3d3d"
 
@@ -397,11 +401,6 @@ hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
 metafile = true
 
 [[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "9645a2d42361e38b0747c43f5e82a7f74cd4f06940cad02d6591e7c81835f733"
-metafile = true
-
-[[files]]
 file = "mods/ars-sable.pw.toml"
 hash = "b55269bd509d39b57bf4a9d84f6df4b9f29f30581c5f086b5c0d00f1b5bd96a4"
 metafile = true
@@ -731,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-trainutilities.pw.toml"
-hash = "15d394f8ac4c7473ff7a27edf495214805556b1e57f2830e6fa33ca37858eabc"
+hash = "d7b1c9e2be79cc491f7e83d5b89c4a5f7ad0b28f821092ec09419c60de79d7f4"
 metafile = true
 
 [[files]]
@@ -782,11 +781,6 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "9922299daffee33cbc103a4a2a7a67077784d1d14de52e4149cfbc5dbd5674cc"
-metafile = true
-
-[[files]]
-file = "mods/dragonlib.pw.toml"
-hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
@@ -896,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -1136,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "a58d194107253147cb528cf1e7a7dde58e21ed63ad65202bbc5ff51d26443335"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
@@ -1160,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/proxy-compatible-forge.pw.toml"
-hash = "27e7e9cb565fa4adcbde462ed364dbe48ff9487a3344520239ab9cf05c366178"
+hash = "c80a96963f867c8c01c8e72df13abc9e97bc9ae99575b94fd95605875c60b88b"
 metafile = true
 
 [[files]]
