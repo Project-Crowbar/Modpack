@@ -3,11 +3,11 @@ filename = "create_avionics-neoforge-1.21.1-0.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "79b15d3375f65d9a4b323b36435309cf4b4a2457"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/h4nsLvjf/versions/sWhAueMC/create_avionics-neoforge-1.21.1-0.5.2.jar"
+hash-format = "sha512"
+hash = "36c75651998f21dfd66bbdcb02f2a52291504b15f5f8cf3f77ed62c2ac38d3543270c3e2b8d2cb304555f98b11a6de28accf371b8d9e67f6e29d5b60917bb539"
 
 [update]
-[update.curseforge]
-file-id = 8507868
-project-id = 1539942
+[update.modrinth]
+mod-id = "h4nsLvjf"
+version = "sWhAueMC"

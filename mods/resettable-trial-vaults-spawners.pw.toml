@@ -1,0 +1,13 @@
+name = "Resettable Trial Vaults & Spawners"
+filename = "resettable_trial_chambers-1.0.2-neoforge-21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bUTHehjH/versions/kmkyDPRB/resettable_trial_chambers-1.0.2-neoforge-21.jar"
+hash-format = "sha512"
+hash = "d871d837e1ac545845e45dc94cd8917c951eb449d0f558132a486bed2b52fb64ae6d81e0231dd05ef813e3569836883cd885060b6aea3d850c03061bdd4abe2b"
+
+[update]
+[update.modrinth]
+mod-id = "bUTHehjH"
+version = "kmkyDPRB"

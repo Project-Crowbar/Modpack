@@ -3,11 +3,11 @@ filename = "trashcans-1.0.18c-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8e853e0784b01b36b4503ef5599be2724be74b07"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4QrnfueM/versions/qjxSupgx/trashcans-1.0.18c-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "4e9bb4916b82e8fa58d9c20dbf56b00d149551553e3249a0923c80f9538433bdb3b83865766720c9214d9e18f7c798e68c3037f923fd2ca50a083de1fee31f64"
 
 [update]
-[update.curseforge]
-file-id = 5891067
-project-id = 394535
+[update.modrinth]
+mod-id = "4QrnfueM"
+version = "qjxSupgx"

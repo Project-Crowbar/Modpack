@@ -3,11 +3,11 @@ filename = "immersive_paintings-neoforge-1.21.1-0.7.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
+hash-format = "sha512"
+hash = "f08e759ab6bbdd8b2d00ae3e1cc7044dfe3efa86d34fbbf7553d097ad1be358818d6569902b122cff2654c3a0942eb1a7406cf17ca537386b7d382aa8454b326"
 
 [update]
-[update.curseforge]
-file-id = 8194870
-project-id = 639584
+[update.modrinth]
+mod-id = "6txNkua3"
+version = "DeOfrXC3"

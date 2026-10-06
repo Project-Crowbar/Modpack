@@ -3,11 +3,11 @@ filename = "createpropulsion-1.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "928e9428ee92d07426c296b04a7fffb1e737e290"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar"
+hash-format = "sha512"
+hash = "6096c9c5cb220219a0b58b56f9fefd63f8b79a0967d326727b4206d62df1813da73956aeae2fa5b839160a1bb5af8e099726d12d2d93f10e5f157beb85bb9c52"
 
 [update]
-[update.curseforge]
-file-id = 8496246
-project-id = 1522736
+[update.modrinth]
+mod-id = "ApkoHNO9"
+version = "H13U56dc"

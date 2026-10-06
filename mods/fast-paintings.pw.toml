@@ -3,11 +3,11 @@ filename = "fastpaintings-1.21-1.3.0-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6df81c4fe659eaee718cb0856c79e4cfa272e9ea"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/z3TzcquW/versions/PQ155hbf/fastpaintings-1.21-1.3.0-neoforge.jar"
+hash-format = "sha512"
+hash = "7785533061b4c53bf26c79629016bbc584a10fee7cd50b0159b617ff9dc6751f0cc8185435cf2c81a0443af0c44bc4d2a58ce021778d93ec7f50318862a2b046"
 
 [update]
-[update.curseforge]
-file-id = 7305762
-project-id = 883287
+[update.modrinth]
+mod-id = "z3TzcquW"
+version = "PQ155hbf"

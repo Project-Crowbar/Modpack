@@ -1,0 +1,13 @@
+name = "LuckPerms Chat"
+filename = "lpcmod-1.21.1-3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9JzOw8k3/versions/mH7UFkG7/lpcmod-1.21.1-3.jar"
+hash-format = "sha512"
+hash = "e46aeae351fb378543bcd453d4cf2b0a0fa2e9ab3c52043af45b43ab81dbbae63c1caba448c1e48b3581d3c663a7506c233a082ee07c0bdb02c8a7df3f496f99"
+
+[update]
+[update.modrinth]
+mod-id = "9JzOw8k3"
+version = "mH7UFkG7"

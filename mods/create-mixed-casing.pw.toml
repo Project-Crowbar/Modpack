@@ -3,11 +3,11 @@ filename = "create_mixed_casing-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3eb6a839d3fc192f17f465065a07a4263d1944f5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wMgXLrSd/versions/xo79epr6/create_mixed_casing-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "33862786cab3f81c633065aa683587c4b5ef631126e9bf279397f902e29c268c5ca6e6640bc997aa9dc4569719543ee881da5a720a5680ac1b056f1da1294369"
 
 [update]
-[update.curseforge]
-file-id = 7892181
-project-id = 1321083
+[update.modrinth]
+mod-id = "wMgXLrSd"
+version = "xo79epr6"

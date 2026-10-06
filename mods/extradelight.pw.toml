@@ -1,13 +1,13 @@
-name = "Extra Delight"
+name = "ExtraDelight"
 filename = "extradelight-2.6.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a04ddf96b39a0f909d4184d326cc09c54650737d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yRrY3XII/versions/1SSgrmDa/extradelight-2.6.6.jar"
+hash-format = "sha512"
+hash = "39ac6beee0111d45abab3129f275d7f342edb993528d7045538fa42369d995cb4a1b292d271e21ccfe25f822420ebd9e4896beb6028c65b98f891303951219b8"
 
 [update]
-[update.curseforge]
-file-id = 8261063
-project-id = 842106
+[update.modrinth]
+mod-id = "yRrY3XII"
+version = "1SSgrmDa"

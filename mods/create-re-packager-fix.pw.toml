@@ -1,0 +1,13 @@
+name = "Create: Re-Packager Fix"
+filename = "create_re_packager_fix-1.21.1-neoforge-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hki0MblJ/versions/yHZmICzF/create_re_packager_fix-1.21.1-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "5374c5157924145cb1eb22d5fd5303b01104295f32fe85236a6ad129884a29c4697187c87b553dc39a206fcb23e33fa451cc2029b3cf3b12d027e56dc856227d"
+
+[update]
+[update.modrinth]
+mod-id = "Hki0MblJ"
+version = "yHZmICzF"

@@ -3,11 +3,11 @@ filename = "immersive_furniture-neoforge-0.3.3+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cd595ea729f0b55a09568c2ebcdb1ad2d6c16c53"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SvN6UGeF/versions/qXtpNEFr/immersive_furniture-neoforge-0.3.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "03ae8709ee286895cb46e7ee8585189a07b14a0b4aa5d88baa1e98eabfb2a9d4b9a9419146952eb7150d67391d5eda7f3777b2cc3aef827f2a12c2c731fee63d"
 
 [update]
-[update.curseforge]
-file-id = 8563588
-project-id = 1283531
+[update.modrinth]
+mod-id = "SvN6UGeF"
+version = "qXtpNEFr"

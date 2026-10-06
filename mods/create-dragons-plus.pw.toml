@@ -3,11 +3,11 @@ filename = "CreateDragonsPlus-1.11.7b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36085362f1123273a2d8e8e7e8af86c32ac10251"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/zQDQbNih/CreateDragonsPlus-1.11.7b.jar"
+hash-format = "sha512"
+hash = "4b86f50641b95532d8662e333b1805f0938bf49d1fd9ee7bd4920dca7a4c3707e11f95d44d6a6ce250acc0d534f08ffd2a7891308d587c4d63ce63be3377ae83"
 
 [update]
-[update.curseforge]
-file-id = 8633162
-project-id = 1216624
+[update.modrinth]
+mod-id = "dzb1a5WV"
+version = "zQDQbNih"

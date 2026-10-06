@@ -3,11 +3,11 @@ filename = "create-easyfilling-dypiduo-1.21.1-2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fbb2f0fc5deec9c4265c54e98c63c0869163e3e6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZXVNO62w/versions/jbnsM1He/create-easyfilling-dypiduo-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "dbb17014ae229614a64a046c032bb466b54c846024242b3230b012b8f004ca513bfc6b6404200178fe79201dc6759bf31bd62dc5ed6a8b193ce21b2e1dee5643"
 
 [update]
-[update.curseforge]
-file-id = 7977843
-project-id = 1381155
+[update.modrinth]
+mod-id = "ZXVNO62w"
+version = "jbnsM1He"

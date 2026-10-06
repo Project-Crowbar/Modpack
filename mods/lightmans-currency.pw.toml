@@ -3,11 +3,11 @@ filename = "lightmanscurrency-1.21-2.3.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4d30c4edeaf19f269dceed84ef0bb7dbe53e1f57"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wvMc8AJt/versions/n2ynBeOK/lightmanscurrency-1.21-2.3.0.5.jar"
+hash-format = "sha512"
+hash = "f9eaf1020fe77c36912f7eec1d7e6500d7465e6bdb829e737c4bdb8af6a1213d83771a9e84392d210e675c8e74294fa7f8c1f4f78386f2966896b6891019c451"
 
 [update]
-[update.curseforge]
-file-id = 8366260
-project-id = 472521
+[update.modrinth]
+mod-id = "wvMc8AJt"
+version = "n2ynBeOK"

@@ -1,0 +1,13 @@
+name = "Starter Kit"
+filename = "starterkit-1.21.1-8.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/OUsoZwOx/starterkit-1.21.1-8.1.jar"
+hash-format = "sha512"
+hash = "baf3e243ff6cf408c62c964b7c13c2238e3310377bf7053b8b0209e2d6c4114b89c1bbc68b08b3a35aa7789bc1e547735403a71074017452b344ba3ebe8a1fdc"
+
+[update]
+[update.modrinth]
+mod-id = "6L3ydNi8"
+version = "OUsoZwOx"

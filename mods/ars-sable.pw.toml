@@ -1,0 +1,13 @@
+name = "Ars Sable"
+filename = "ars_sable-1.21.1-1.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gmQUWgeV/versions/zGMfKGIU/ars_sable-1.21.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "8696cadb2ab45e14f23510a6c6837d063b1d9b6b1beb4a57f8840fe7133335df1406bccf588187e89d1098e092f3b4e31561982edad96a25c4b8cb70c8fcc178"
+
+[update]
+[update.modrinth]
+mod-id = "gmQUWgeV"
+version = "zGMfKGIU"

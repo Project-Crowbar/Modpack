@@ -3,11 +3,11 @@ filename = "create_mechanical_chicken-1.21.1-1.4.2-6.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4d85f05f0a4a56cf589fa5ae9113b3eb7b9cd9bc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/EoG8jJjT/versions/q7FyC3m8/create_mechanical_chicken-1.21.1-1.4.2-6.0.10.jar"
+hash-format = "sha512"
+hash = "374dfd7f4aac587fca2cfa7be947dc9693d609d1cdd90b3aa5383efc0f009970fa19e8b9f9fc45d3a4792511809f51e8791a4e101471cc4b252ad7d2f78e1ef0"
 
 [update]
-[update.curseforge]
-file-id = 8418614
-project-id = 1107296
+[update.modrinth]
+mod-id = "EoG8jJjT"
+version = "q7FyC3m8"

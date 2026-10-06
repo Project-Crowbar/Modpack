@@ -3,11 +3,11 @@ filename = "create_train_parts-0.5.2-1.21.1-6.0.10-281.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2d0dc7d7838f5bdaabdd96080b1e4b950bfd3306"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/h0bu4oDk/versions/wSuDZsee/create_train_parts-0.5.2-1.21.1-6.0.10-281.jar"
+hash-format = "sha512"
+hash = "73b4aaee6d94431811dc9826e3aaa0665f393a6753a06379b5a0633f8a6f1070d0c54417cd8e4a2134634c732fc8edfe4d91cbd225ba763ea63500f84a3e2dba"
 
 [update]
-[update.curseforge]
-file-id = 8482079
-project-id = 1294279
+[update.modrinth]
+mod-id = "h0bu4oDk"
+version = "wSuDZsee"

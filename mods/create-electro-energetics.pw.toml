@@ -3,11 +3,11 @@ filename = "electroenergetics-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "57012ecaad1e1b4994878696a4ba81dfdb3488db"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qYJdIoAx/versions/11zlqCk5/electroenergetics-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "962ce12b3b755eea9c50f16f685a03f82268c5c6250dbcf3f25a11b62e01e39c8668571c2093703178736031e43139953fcb510e151a1950c638503b3eda1993"
 
 [update]
-[update.curseforge]
-file-id = 8345582
-project-id = 1443327
+[update.modrinth]
+mod-id = "qYJdIoAx"
+version = "11zlqCk5"

@@ -3,11 +3,11 @@ filename = "lctech-1.21-0.2.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b722d564ded88fcaa6646950a1e3ca1fff892558"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/US8EsYXT/versions/touwuiOG/lctech-1.21-0.2.2.7.jar"
+hash-format = "sha512"
+hash = "3c2d4e28e2b63c03749b8769bda818946542f74bd5bd0c4323dd4748057ebb886e7cd9f645f60b81b1134547b619e0f101b6e1515cce198f6c2ba38ee70c377d"
 
 [update]
-[update.curseforge]
-file-id = 7405698
-project-id = 548152
+[update.modrinth]
+mod-id = "US8EsYXT"
+version = "touwuiOG"
