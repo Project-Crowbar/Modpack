@@ -1,13 +1,13 @@
 name = "Hot's Aerostuff"
-filename = "hotstuff-1.1.6.jar"
+filename = "hotstuff-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UFCtLrRv/versions/eRu4UNsh/hotstuff-1.1.6.jar"
+url = "https://cdn.modrinth.com/data/UFCtLrRv/versions/p1qiZ6zk/hotstuff-1.1.7.jar"
 hash-format = "sha512"
-hash = "17494031d0a1204808b8a34736b5344f0f2fa1e3ec77515608f6fd9d464fe7b2e451fafc7ddb4097f974164be1eb7212578890d0b9a190a926602982f3f097ea"
+hash = "9bfaa27a2640a6d183470ce61b8cb931302fc4da3e928d81a71eab1752b69eb5e4803f2c9477b96013602d44a195d359f646c310b4692eb0badfda371933856d"
 
 [update]
 [update.modrinth]
 mod-id = "UFCtLrRv"
-version = "eRu4UNsh"
+version = "p1qiZ6zk"

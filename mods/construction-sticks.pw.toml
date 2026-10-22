@@ -1,13 +1,13 @@
 name = "Construction Sticks"
-filename = "ConstructionSticks-1.21.1-1.4.2.jar"
+filename = "ConstructionSticks-1.21.1-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ooyjDLZt/versions/o16G9HVe/ConstructionSticks-1.21.1-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/ooyjDLZt/versions/5dwDOCYP/ConstructionSticks-1.21.1-1.5.0.jar"
 hash-format = "sha512"
-hash = "ed32969c9f99fdd5eac2a277ac747362f872aa89adb761f252f00d84d745d244a34ff1a6d999f8bf0fb0eabbd145e7bd8201ecc783c0006c8fdf841bd163d448"
+hash = "8ac03ef221e657d8c864130e03dbc0b5f45627836547128fcd866fc5f04a0a5ad66d72c1c7a3cceec906146ec728fba9dc1f976a48a62dfa40d3efabeead5ad6"
 
 [update]
 [update.modrinth]
 mod-id = "ooyjDLZt"
-version = "o16G9HVe"
+version = "5dwDOCYP"
