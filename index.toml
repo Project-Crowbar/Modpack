@@ -1152,8 +1152,8 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
-file = "mods/prcbcore-260729.jar"
-hash = "1301f833a24b9d88a262259c35791d418de3c47589355347c80d25e19f4a964c"
+file = "mods/prcbcore-261022.jar"
+hash = "224b4ef60c58f456afda8685ffe73f68ce2b2b4a4484560059dae053b2d745b7"
 
 [[files]]
 file = "mods/prickle.pw.toml"
