@@ -672,11 +672,6 @@ hash = "9632e3a695f69473d879e285e46007fd5037cb5abc8db02a8bec79689864d0fc"
 metafile = true
 
 [[files]]
-file = "mods/create-grappling-hooks.pw.toml"
-hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
-metafile = true
-
-[[files]]
 file = "mods/create-mechanical-chicken.pw.toml"
 hash = "bc5c6f8ea0e3a739da6977506ebeece414c737066660134d3c2469be94677618"
 metafile = true
