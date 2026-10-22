@@ -13,6 +13,10 @@ file = "config/chat_heads.json5"
 hash = "da047f212b4db2e6bdb8232f1ceebc92f6e734c4782475487c3fb93f97f89628"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "931f683435867307f6784c3c0d1f39f548c540010341b19471254a29f31aa653"
+
+[[files]]
 file = "config/dsurround/dsurround.json"
 hash = "d46ae62f4e77deb19e5b1d79e739ee1c2495f836496c71ea1627b37bd922d179"
 
@@ -159,6 +163,10 @@ hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "6ece287c043cde6f7a2a92b77aa65004b4a79a3190d778a1641d3cf21fb63bad"
 
 [[files]]
 file = "config/fml.toml"
