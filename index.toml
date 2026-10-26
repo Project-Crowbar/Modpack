@@ -672,11 +672,6 @@ hash = "bc5c6f8ea0e3a739da6977506ebeece414c737066660134d3c2469be94677618"
 metafile = true
 
 [[files]]
-file = "mods/create-mechanical-extruder.pw.toml"
-hash = "6e064a3988937e06dfa307c8c395c73461819f9135197bc30563c6f13d1f1da4"
-metafile = true
-
-[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
 metafile = true
@@ -745,6 +740,10 @@ metafile = true
 file = "mods/create_factory_logistics.pw.toml"
 hash = "5992df64e27a5dd20a386c32e7c2c8018e0c31ac9a25ee655bc375ef648e3590"
 metafile = true
+
+[[files]]
+file = "mods/create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar"
+hash = "09fe1908ab59bb019d2fa3125c38ea893fdd093ae3e75671cc3c2a2327e6255d"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -1147,8 +1146,8 @@ hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
 metafile = true
 
 [[files]]
-file = "mods/prcbcore-261022.jar"
-hash = "224b4ef60c58f456afda8685ffe73f68ce2b2b4a4484560059dae053b2d745b7"
+file = "mods/prcbcore-261023.jar"
+hash = "28071ae993605e1e6efa7a3214c1be2d7851fb012905551109edad9e236e6521"
 
 [[files]]
 file = "mods/prickle.pw.toml"
