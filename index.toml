@@ -18,11 +18,11 @@ hash = "931f683435867307f6784c3c0d1f39f548c540010341b19471254a29f31aa653"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "d46ae62f4e77deb19e5b1d79e739ee1c2495f836496c71ea1627b37bd922d179"
+hash = "ed92c901aefb7c82709a1486cf7e39f2683c60178beb62cc71b62ce90121bb63"
 
 [[files]]
 file = "config/dsurround/soundconfig.json"
-hash = "93c93dd134f2e17faf96e9d9dc4680f06df15e5702f6762ba3c18e943c41f255"
+hash = "fb67b3e2dbc0269fbd84263fc388b89b42d92b1ffd88b41ffadbd2dacd485421"
 
 [[files]]
 file = "config/fancymenu/assets/drift.ogg"
@@ -704,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/create-re-packager-fix.pw.toml"
 hash = "cc9e5218cf07986891d59bc7f4a8d69db239cd25136a9b4f693068a3da7af484"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "9b5fe0ca38315fe878004e1f14818c2b26a1233b03a067b292efd02a007e94ae"
 metafile = true
 
 [[files]]

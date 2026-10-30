@@ -1,12 +1,12 @@
 name = "Project Crowbar"
 author = "Nikk"
-version = "261030"
+version = "261031"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a9496a616cf2f9fc390adc8f975a6a9d2bc1d9923ddc1d0b251a8d8a678163c6"
+hash = "5cc34816156846050b34575a05f51924ddf620bb5169968f5e87453b4aa87133"
 
 [versions]
 minecraft = "1.21.1"

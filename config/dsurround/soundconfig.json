@@ -1,58 +1,58 @@
 [
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:biome.bog"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:biome.forest"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:biome.forest.deep"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:biome.forest.pine"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:biome.jungle"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:biome.plains"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:biome.savanna.day"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:bird"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:coyote"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:crow"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:electricarc"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:loon"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:nightingale"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:owl"
   },
   {
@@ -60,73 +60,61 @@
     "volumeScale": 35
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:raptor"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:seagulls"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:turtledove"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:wolf"
   },
   {
-    "block": true,
+    "action": "block",
     "soundEventId": "dsurround:woodpecker"
   },
   {
-    "startup": true,
-    "soundEventId": "minecraft:ambient.underwater.exit"
-  },
-  {
-    "block": true,
+    "action": "block",
     "soundEventId": "minecraft:block.water.ambient"
   },
   {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.chicken.ambient"
   },
   {
-    "startup": true,
-    "soundEventId": "minecraft:entity.chicken.egg"
-  },
-  {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.cow.ambient"
   },
   {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.ender_dragon.death",
     "volumeScale": 10
   },
   {
-    "startup": true,
-    "soundEventId": "minecraft:entity.experience_orb.pickup"
-  },
-  {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.llama.ambient"
   },
   {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.pig.ambient"
   },
   {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.sheep.ambient"
   },
   {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.wither.death",
     "volumeScale": 10
   },
   {
-    "cull": true,
+    "action": "cull",
     "soundEventId": "minecraft:entity.wither.spawn",
     "volumeScale": 10
   }
