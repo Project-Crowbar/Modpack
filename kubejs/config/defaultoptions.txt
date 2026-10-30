@@ -20,7 +20,7 @@ maxFps:120
 mipmapLevels:4
 narrator:0
 particles:0
-reducedDebugInfo:false
+reducedDebugInfo:true
 renderClouds:"true"
 renderDistance:12
 simulationDistance:12
