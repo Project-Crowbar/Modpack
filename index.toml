@@ -607,6 +607,11 @@ hash = "33018abac3d5d96ba7774d9666a0f5d769974dd5c32487308f74744da3f1bcca"
 metafile = true
 
 [[files]]
+file = "mods/create-configurables.pw.toml"
+hash = "bd2f13257bd4affeafe1e4613701ff431176f8ece39761cfb8e01e75544ee38b"
+metafile = true
+
+[[files]]
 file = "mods/create-configured.pw.toml"
 hash = "f11fb915bf370af6fbae707fc36da40c793f94f43991751a61a415f2b4362661"
 metafile = true
@@ -712,6 +717,11 @@ hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
+hash = "f14ab00e7678ba29914b0d1a45a9e200ced324886dc41f2a3f1001a7a80ae67d"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
 metafile = true
@@ -724,6 +734,11 @@ metafile = true
 [[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "d7b1c9e2be79cc491f7e83d5b89c4a5f7ad0b28f821092ec09419c60de79d7f4"
+metafile = true
+
+[[files]]
+file = "mods/create-wings-plus.pw.toml"
+hash = "7973bc01f9a588e81e3b33f68669fcc1777f96422c9066a565370a438ff36551"
 metafile = true
 
 [[files]]
@@ -836,6 +851,11 @@ hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
 
 [[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "5d2c7666928f62d709f6890e20dd77de984837476ba181ef7f3c5e8acbe0a8d1"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "b9c7e06aaedf28d4f5fd4d002aa290b755bea76a9c2c0012a4a46efea1a3ef7d"
 metafile = true
@@ -868,6 +888,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "875d85990bd50cc8dd7bc3e1699b722e7aa1a78704a6ade47952e7e971daf951"
 metafile = true
 
 [[files]]
@@ -1318,6 +1343,10 @@ metafile = true
 file = "mods/tab-was-taken.pw.toml"
 hash = "661acc99102a88a35ea321ad78511b378a4c79297dc85521cc9b3353614f1a18"
 metafile = true
+
+[[files]]
+file = "mods/taurine-1.0-SNAPSHOT.jar"
+hash = "0e9f4cb889689e9eb825f86a405189c3d5fd9b1be482e38e5ca8eea414836745"
 
 [[files]]
 file = "mods/tectonic.pw.toml"
