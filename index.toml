@@ -926,11 +926,6 @@ hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "e464124dbd5ab9412aea3ffaee03c8a956a08400c7ba6d80084e46db9aa517f6"
-metafile = true
-
-[[files]]
 file = "mods/hots-aerostuff.pw.toml"
 hash = "a7e9187482cf225fbdb3769e860989040d41508106c4672c49439ed4f0d94af1"
 metafile = true
