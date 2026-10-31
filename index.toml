@@ -334,7 +334,7 @@ hash = "299e1d1373d20317b6e262059a9aa2f50c29228cb26307b9417f819a9345df03"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "de6f3166912879dc0c19dee4fa618e44900c3f135d17b8e9dbaaa23272017bbf"
+hash = "39081fee95c19b4503334a7c680ed5207a106276553ecb5983d8a653a98e3215"
 
 [[files]]
 file = "kubejs/startup_scripts/item/peanut_butter_honey.js"
