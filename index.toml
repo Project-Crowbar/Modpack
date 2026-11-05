@@ -18,7 +18,7 @@ hash = "931f683435867307f6784c3c0d1f39f548c540010341b19471254a29f31aa653"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "ed92c901aefb7c82709a1486cf7e39f2683c60178beb62cc71b62ce90121bb63"
+hash = "9b8fb351c216032b3550440bf717959947a9d8cdb62c2c6d42dbabd3e4f0e578"
 
 [[files]]
 file = "config/dsurround/soundconfig.json"
