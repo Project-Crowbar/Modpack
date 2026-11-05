@@ -18,7 +18,7 @@ hash = "931f683435867307f6784c3c0d1f39f548c540010341b19471254a29f31aa653"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "ed92c901aefb7c82709a1486cf7e39f2683c60178beb62cc71b62ce90121bb63"
+hash = "9b8fb351c216032b3550440bf717959947a9d8cdb62c2c6d42dbabd3e4f0e578"
 
 [[files]]
 file = "config/dsurround/soundconfig.json"
@@ -214,11 +214,19 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "34a77331937d970ad973bca000acd5037ffc87d23c9c0369dbb49e2934f8a88f"
+hash = "1dfbee193f5be9fd0d784979e0fab7864cea54e5923ab19a94f021f6854bdc4c"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
+hash = "9692d6d938adce776761f79b1b8b101390f7ce5ae7e712ae9a656696d0a7a049"
+
+[[files]]
+file = "config/soundconfig.json"
+hash = "8d51f1b3185760959238efc0dd86ad1f239b4f98386e76a4bf4b54ad1f5b75be"
+
+[[files]]
+file = "config/soundphysics.properties"
+hash = "9692d6d938adce776761f79b1b8b101390f7ce5ae7e712ae9a656696d0a7a049"
 
 [[files]]
 file = "config/sounds/chat.json"
@@ -399,25 +407,6 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
-file = "mods/ars-additions.pw.toml"
-hash = "08f46822b355882721807489cbf64a7e8ac03efc1476136e60acbc8dd7dc2880"
-metafile = true
-
-[[files]]
-file = "mods/ars-creo.pw.toml"
-hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
-metafile = true
-
-[[files]]
-file = "mods/ars-sable.pw.toml"
-hash = "7699165f59feb7f295cf4e7b91881815f38f9f5f73ece01a2675e2c8776cc5dd"
-metafile = true
-
-[[files]]
-file = "mods/ars_nouveau-1.21.1-5.12.1.jar"
-hash = "ecb410f32ab220fe78891966f82da4ce2367622805593010d8c41571ebf2369b"
-
-[[files]]
 file = "mods/async-locator-refined.pw.toml"
 hash = "b77926df9a06028f058f33d85837ca623eb6fef9c4b78d9b39b428a1bf1a67b5"
 metafile = true
@@ -528,11 +517,6 @@ hash = "c78a54a2b4bba4671d15f6d248a7a87d16c0d68bdfa553915b1f154186b3e952"
 metafile = true
 
 [[files]]
-file = "mods/construction-sticks.pw.toml"
-hash = "bbaa507f7bf75d33bf14b6bbfd62a58590ff47eef12060b635d87635d9f8cec4"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -583,18 +567,8 @@ hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
-file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
-metafile = true
-
-[[files]]
 file = "mods/create-avionics.pw.toml"
 hash = "fd81f1cbb5764f7192ec97ddd6c24104cfd986627be8b862641ce2df92bac232"
-metafile = true
-
-[[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
 
 [[files]]
@@ -962,6 +936,21 @@ hash = "a46a4220e4d467208a042ccd05cc8c2908733f02da6f5ecd532ab4cb2ed72909"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "8941da7290825037921249274369a39440567f667df2eead412cf54423168f7e"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
+metafile = true
+
+[[files]]
+file = "mods/isskjs.pw.toml"
+hash = "57db227711481c9b6fbc89a5ea04f2810c9f27035baa7f33437a80a94ae9609f"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "24d27cb3caf022e154386e473bcca80e15d6ce18fa8e1367b6f9b4dc1594b446"
 metafile = true
@@ -1167,13 +1156,18 @@ hash = "a76b6068b10171b1fc244d5cb0a9dfbd0694b33e25c62eeeb5726c73d297cd3d"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
 metafile = true
 
 [[files]]
-file = "mods/prcbcore-261023.jar"
-hash = "28071ae993605e1e6efa7a3214c1be2d7851fb012905551109edad9e236e6521"
+file = "mods/prcbcore-261105.jar"
+hash = "cb06a89a9c86c2911465eef2ea3ff51681bd8139a8f61935c5ce3f16213c945b"
 
 [[files]]
 file = "mods/prickle.pw.toml"
@@ -1320,11 +1314,6 @@ hash = "e97c3821f1808529c63e802ad83c2c1579a3f2abae2092789acedf6a176eecf0"
 metafile = true
 
 [[files]]
-file = "mods/storage-delight.pw.toml"
-hash = "4b559c14c6ce28a32c383587b5f8c0e30f3ffc1ed0015e880eac8e561237588f"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -1354,13 +1343,13 @@ hash = "236e9cf3b43c2ed9169f14b32919bbd6497dcc94ba8d511de9e97ac5ff80dfab"
 metafile = true
 
 [[files]]
-file = "mods/tiny-item-animations.pw.toml"
-hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
+file = "mods/terralith.pw.toml"
+hash = "77a945b5ff32f1a821cd2942bcd2fb411740061f022efad3e48eaa8577b48636"
 metafile = true
 
 [[files]]
-file = "mods/too-fast.pw.toml"
-hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+file = "mods/tiny-item-animations.pw.toml"
+hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
 metafile = true
 
 [[files]]
@@ -1381,26 +1370,6 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0ea8ab3c8eebc336062f5e2da28c50f460fdc555913a9a66e4f27972c3a5e1ef"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "79e2fcf85fb4e4e4248844f4ec18daaedcd5a45157222e26383eabb29c99d60e"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "976854e8cb0473236ae4ce6b5b29bb901dc46b20d072bfed79e1f07c64b37095"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
 metafile = true
 
 [[files]]
