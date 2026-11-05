@@ -1,0 +1,13 @@
+name = "KubeJS Iron's Spells"
+filename = "irons_spells_js-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XLsvc8Ld/versions/MwVqA1ov/irons_spells_js-4.0.3.jar"
+hash-format = "sha512"
+hash = "bca6a4efa9035f6404146090252b51f6e0e8d6c860fd8207d9e53a33a746dc8488e7c62871fe984514bb47dafa1837bf63219dd56da535060ac1a6408a7f90c6"
+
+[update]
+[update.modrinth]
+mod-id = "XLsvc8Ld"
+version = "MwVqA1ov"
