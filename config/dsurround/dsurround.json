@@ -3,7 +3,7 @@
   "generalOptions": {
     // Enable/disable chat window notification of newer updates available
     // Default: true
-    "enableModUpdateChatMessage": true,
+    "enableModUpdateChatMessage": false,
     // Enable/disable registration of client side commands
     // Default: true
     // Changes take effect after restarting Minecraft
