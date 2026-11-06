@@ -9,7 +9,7 @@
       // example background
       // you can also specify multiple images from which a random one will be picked
       // "image": ["stellarview.png", "another.png", "yet_another.png"],
-      "image": "OuluAuroraByNikk.jpeg",
+      "image": "StargazingNikoAndAda.jpeg",
       "position": {
         // define which point in the image should be aligned at x, y position on the window
         // Possible values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, CENTER, TOP_CENTER, BOTTOM_CENTER, LEFT_CENTER, RIGHT_CENTER
@@ -33,33 +33,17 @@
     {
       // the loading text should be centered and poistioned at 60% from the top of the window
       // loading.png is also available if you want the text without animation
-      "image": "project_crowbar_title.png",
+      "image": "title.apng",
       "position": {
         // using bottom center alignes the bottom of the loading text to the 60%
         // this comes handy as we want to render the loading bar below it
         "position_anchor": "TOP_CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 20,
+        "y": 30,
         "size_unit": "PERCENTAGE",
         // the loading text should be 25% of the window width
         "width": 60
-      }
-    },
-    {
-      // the loading text should be centered and poistioned at 60% from the top of the window
-      // loading.png is also available if you want the text without animation
-      "image": "prcb_anim.apng",
-      "position": {
-        // using bottom center alignes the bottom of the loading text to the 60%
-        // this comes handy as we want to render the loading bar below it
-        "position_anchor": "TOP_CENTER",
-        "position_unit": "PERCENTAGE",
-        "x": 90,
-        "y": 69,
-        "size_unit": "PERCENTAGE",
-        // the loading text should be 25% of the window width
-        "width": 15
       }
     }
   ],
@@ -71,7 +55,7 @@
       "position_anchor": "TOP_CENTER",
       "position_unit": "PERCENTAGE",
       "x": 50,
-      "y": 50
+      "y": 56
       // custom width and height is not supported
     }
   },
