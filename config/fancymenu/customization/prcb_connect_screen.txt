@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = connect_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1785323620197
+  last_edited_time = 1793998712877
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:d6f9de10-c2f8-44f7-9c59-c3b6120f1f01-1785323592247] = [groups:][instances:]
+  [loading_requirement_container_meta:3c1d59a0-c343-463a-a16c-ae54f535f89a-1793998688283] = [groups:][instances:]
 }
 
 menu_background {
@@ -350,12 +350,12 @@ element {
   fade_out = no_fading
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1026
+  auto_sizing_base_screen_height = 1022
   sticky_anchor = false
   anchor_point = top-centered
-  x = -152
+  x = -161
   y = 76
-  width = 305
+  width = 322
   height = 75
   stay_on_screen = true
   element_loading_requirement_container_identifier = e0203a27-568c-4c12-b0ac-22869cc9fb2e-1771146320262
@@ -390,7 +390,7 @@ element {
   advanced_vertical_tilt_degrees = 0.0
   horizontal_tilt_degrees = 0.0
   advanced_horizontal_tilt_degrees = 0.0
-  source = [source:local]/config/fancymenu/assets/project_crowbar_title.png
+  source = [source:local]/config/fancymenu/assets/title.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
@@ -404,26 +404,22 @@ element {
 }
 
 element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/drift.ogg
+  audio_instance_0 = [source:local]/config/fancymenu/assets/music/petals_at_dawn.ogg
   audio_instance_weight_0 = 1.0
-  audio_instance_1 = [source:local]/config/fancymenu/assets/industrial_tycoon.ogg
+  audio_instance_1 = [source:local]/config/fancymenu/assets/music/project_crowbar.ogg
   audio_instance_weight_1 = 1.0
-  audio_instance_2 = [source:local]/config/fancymenu/assets/petals_at_dawns.ogg
-  audio_instance_weight_2 = 1.0
-  audio_instance_3 = [source:local]/config/fancymenu/assets/the_amethyst_mists.ogg
-  audio_instance_weight_3 = 1.0
   play_mode = shuffle
   looping = true
   sound_source = master
   element_type = audio_v2
-  instance_identifier = 818af673-1e11-4b16-b895-d30ede84d194-1774363573500
+  instance_identifier = 3c27ace8-9574-4093-bcc5-0b6065c7b94f-1793997501300
   appearance_delay = no_delay
   disappearance_delay = no_delay
   fade_in_v2 = no_fading
   fade_out = no_fading
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1080
+  auto_sizing_base_screen_height = 1022
   sticky_anchor = false
   anchor_point = mid-centered
   x = -50
@@ -571,12 +567,12 @@ vanilla_button {
   fade_in_v2 = no_fading
   fade_out = no_fading
   auto_sizing = false
-  auto_sizing_base_screen_width = 1024
-  auto_sizing_base_screen_height = 1024
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1022
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = f79474d4-a892-4377-bf14-429b33bc30b4-1771155184601
-  x = 52
+  x = 60
   y = 89
   width = 200
   height = 9

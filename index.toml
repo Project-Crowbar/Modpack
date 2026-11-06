@@ -25,10 +25,6 @@ file = "config/dsurround/soundconfig.json"
 hash = "fb67b3e2dbc0269fbd84263fc388b89b42d92b1ffd88b41ffadbd2dacd485421"
 
 [[files]]
-file = "config/fancymenu/assets/drift.ogg"
-hash = "a406253f080ff726eb0d50aac4227d4216317442c2054b91d7966f56829f82fd"
-
-[[files]]
 file = "config/fancymenu/assets/icons/favicon-16x16.png"
 hash = "a60c9ba1d910e525b1beaafe49be353475dec970051fe7d5cb98c1f7be0747f5"
 
@@ -41,24 +37,24 @@ file = "config/fancymenu/assets/icons/favicon-mac.icns"
 hash = "a2f4c7ddfc53bcd7d51905b571574464c696d3df680c2d3e9d5bd9a6f5619109"
 
 [[files]]
-file = "config/fancymenu/assets/industrial_tycoon.ogg"
-hash = "211ed07967de7d628ac3223be719a279942cf88d491436426fae4b5669ac657a"
+file = "config/fancymenu/assets/music/LICENSE"
+hash = "cb35e6da0531fdaf9ab55f6f04db685646adcf71e835f8984334f0bf4518c802"
 
 [[files]]
-file = "config/fancymenu/assets/petals_at_dawns.ogg"
-hash = "83412b37ffc2267d3f18c94bba7659f2bd10d3c584380d847481eb970c6b8149"
+file = "config/fancymenu/assets/music/petals_at_dawn.ogg"
+hash = "00d2fa6f90471b969095c245571acb2d3181c1f10214184a41bce31d702c3e25"
 
 [[files]]
-file = "config/fancymenu/assets/project_crowbar_title.png"
-hash = "8db8a0b844aec0fea4d379c74f74719ee68b10cc386200c60511ab4d0d9d78c2"
+file = "config/fancymenu/assets/music/project_crowbar.ogg"
+hash = "ce37f7ddf52b024573b2a2b7b3d56cc4f6cebb8d3f7cd3c5d3b7eca12a11baea"
 
 [[files]]
-file = "config/fancymenu/assets/the_amethyst_mists.ogg"
-hash = "38b58202d353826d262ae7dad9d3e6f8249483f1bd52b1ebff49cfbb2c869d03"
+file = "config/fancymenu/assets/title.png"
+hash = "90c290f0eda0db8c928d2831b49ba3d0273008289290d40f505f1963efff7f4a"
 
 [[files]]
 file = "config/fancymenu/audio_element_controller_metas.json"
-hash = "882454f89bbc7506fb3937c53b9b09203f50d65321e059bc09ee1a46afcb9aa2"
+hash = "fc6b973bc3c214395f0bc0081b8ce3224a859be38d8c55609fec422ab12819b1"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -66,7 +62,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "dc89e8cd9cf91e08308d8a2d4b0ed7b90b185bad9e0c753c03a55f9676122974"
+hash = "3cac1c9947428f08ad5997eb51e6bd444ada5da19ad403a570874934fa19cb32"
 
 [[files]]
 file = "config/fancymenu/customization/prcb_chat.txt"
@@ -74,7 +70,7 @@ hash = "6d07bda653392ebf9f45c252170e818d176b047a33d7f5effae14da5718dc40c"
 
 [[files]]
 file = "config/fancymenu/customization/prcb_connect_screen.txt"
-hash = "108c38f44246e915c7efd297a1d1e28cb5502e1bb0c495e1acd3c998fb10a153"
+hash = "5262d4f3f6b2abb89171237c5746f1cc25ded7154aeaa9bae7821ad4061df15a"
 
 [[files]]
 file = "config/fancymenu/customization/prcb_create_world.txt"
@@ -86,27 +82,19 @@ hash = "42952684172d79cffe951220ab58a8305de5e275a911b4029db6ea0e08773ba0"
 
 [[files]]
 file = "config/fancymenu/customization/prcb_loading_terrain.txt"
-hash = "a56881911ed476f432deb705202260616c0ee1954c4e9af0a73952eb65f91b2e"
+hash = "72717a28b1ff4d31d100e72a76c27d3a5b64f3c87f0586a31a11a7f0fcaa5383"
 
 [[files]]
 file = "config/fancymenu/customization/prcb_multiplayer.txt"
 hash = "53e23da1d3222ff5ac626753b9c8c45d5d80a7f4575f57d972db7a4ea28b90a0"
 
 [[files]]
-file = "config/fancymenu/customization/prcb_pause.txt"
-hash = "45b01e8e1968b92120659b578ceec7625bdfc5b1462e65b8c3456b9469bdd6c1"
-
-[[files]]
 file = "config/fancymenu/customization/prcb_select_world.txt"
 hash = "9a9e9b665545a92e5b97e61b362baac17c73f1473976e7716980c5bb1aa4fde4"
 
 [[files]]
-file = "config/fancymenu/customization/prcb_settings.txt"
-hash = "bff08391a81b57941c5f0e7bcee38ddab773282c42fe742b0a3c2a3329fa82c7"
-
-[[files]]
 file = "config/fancymenu/customization/prcb_titlescreen.txt"
-hash = "e6c3f11cc1e65d6d4fd9ef37f8f1d0d545060332bcf4da4d98c544c7fae77f89"
+hash = "8556c0f767c37211ef6952d9781692d97051b815d6fef0322fe1e3efbbd6f9cb"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -122,7 +110,7 @@ hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "855f033652809f8c0effac919c98389baa0599d631c076bec67c24ee2cacd71e"
+hash = "f563e890058e4ae4e3f1640353d257ceef15f9ea841946f3489c4ffa6b0ec49d"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -927,11 +915,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
-metafile = true
-
-[[files]]
-file = "mods/lc-tech.pw.toml"
-hash = "080f88eb1f74b14604c3c00af84cee515df4679577929ba9694707c2e86daf9d"
 metafile = true
 
 [[files]]
