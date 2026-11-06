@@ -17,12 +17,20 @@ file = "config/create-client.toml"
 hash = "931f683435867307f6784c3c0d1f39f548c540010341b19471254a29f31aa653"
 
 [[files]]
+file = "config/create_avionics-client.toml"
+hash = "6db6ee1fcee23cc27014fd3141f0bafc194468b09972cf0a291c762920369c75"
+
+[[files]]
 file = "config/dsurround/dsurround.json"
 hash = "9b8fb351c216032b3550440bf717959947a9d8cdb62c2c6d42dbabd3e4f0e578"
 
 [[files]]
 file = "config/dsurround/soundconfig.json"
 hash = "fb67b3e2dbc0269fbd84263fc388b89b42d92b1ffd88b41ffadbd2dacd485421"
+
+[[files]]
+file = "config/fancymenu/assets/LICENSE"
+hash = "cb35e6da0531fdaf9ab55f6f04db685646adcf71e835f8984334f0bf4518c802"
 
 [[files]]
 file = "config/fancymenu/assets/icons/favicon-16x16.png"
@@ -35,10 +43,6 @@ hash = "f669a6fea0548aa04bcfe42077c08bc6054c4d89743cbfeadcb1c3c93dabb890"
 [[files]]
 file = "config/fancymenu/assets/icons/favicon-mac.icns"
 hash = "a2f4c7ddfc53bcd7d51905b571574464c696d3df680c2d3e9d5bd9a6f5619109"
-
-[[files]]
-file = "config/fancymenu/assets/music/LICENSE"
-hash = "cb35e6da0531fdaf9ab55f6f04db685646adcf71e835f8984334f0bf4518c802"
 
 [[files]]
 file = "config/fancymenu/assets/music/petals_at_dawn.ogg"
@@ -162,19 +166,19 @@ hash = "415eaa408ddfdeb1bfa0d825f9a148934b39c9b64fd8e166ad92fa51b43d60fd"
 
 [[files]]
 file = "config/simple-custom-early-loading.json"
-hash = "113278d3ce809f6175c2eb5e7730f99faf3fee93a8099200d136c8319afa9db7"
+hash = "3524ac35a44ed458ce29316e22e19786a37be0d1fed8749df807b6afdeaaad94"
 
 [[files]]
-file = "config/simple-custom-early-loading/OuluAuroraByNikk.jpeg"
-hash = "5cd2da3c822598259e2f48e33c6deae558324feaeceef08098d6848d3eec7ebc"
+file = "config/simple-custom-early-loading/LICENSE"
+hash = "cb35e6da0531fdaf9ab55f6f04db685646adcf71e835f8984334f0bf4518c802"
 
 [[files]]
-file = "config/simple-custom-early-loading/prcb_anim.apng"
-hash = "3168ada0faa400dde46cfe8550902fceaf08dedf5438bdff03a69c221bc0103a"
+file = "config/simple-custom-early-loading/StargazingNikoAndAda.jpeg"
+hash = "13274692bf82f8d6d9698679c29fa37290dd6ed7b283559428c8bc861eb40f7b"
 
 [[files]]
-file = "config/simple-custom-early-loading/project_crowbar_title.png"
-hash = "8db8a0b844aec0fea4d379c74f74719ee68b10cc386200c60511ab4d0d9d78c2"
+file = "config/simple-custom-early-loading/title.apng"
+hash = "de65c74a8ac352e411a3134d27b05285f15e234613e87cc43df1fab72b6abe30"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -219,6 +223,10 @@ hash = "cacf9bbf78bdf22678023acb1debc239f6ceac3fb6469bc6388102ff704bc9bf"
 [[files]]
 file = "config/sounds/world.json"
 hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
+
+[[files]]
+file = "config/streamsreflowing.properties"
+hash = "926bfc1ee23bbc4a938d227a33689afea8f211a6d2374d11a8c1569c85742d05"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -1237,7 +1245,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "caf14033b1131c76913431c89140d8b970d08d7d5b11af8b4a1039d82cb6a3fe"
+hash = "e435e575d164b1310c0af181e820ae8728804f85e39b1ad15539137c83d0afff"
 metafile = true
 
 [[files]]
