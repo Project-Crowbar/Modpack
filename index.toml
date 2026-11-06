@@ -205,22 +205,6 @@ file = "config/sodium-options.json"
 hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
 
 [[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
-
-[[files]]
-file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "1dfbee193f5be9fd0d784979e0fab7864cea54e5923ab19a94f021f6854bdc4c"
-
-[[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "9692d6d938adce776761f79b1b8b101390f7ce5ae7e712ae9a656696d0a7a049"
-
-[[files]]
 file = "config/soundconfig.json"
 hash = "8d51f1b3185760959238efc0dd86ad1f239b4f98386e76a4bf4b54ad1f5b75be"
 
@@ -422,11 +406,6 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
-file = "mods/bad-mobs.pw.toml"
-hash = "89aed5ecfa806a53eabfa5f93522224cb0b48f2d908ce584bb0634f96cbc2abb"
-metafile = true
-
-[[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "ad964c7bc216dc509aba7cc617456a340e7746565e79d0cd4fab8a4d31ec95ed"
 metafile = true
@@ -522,6 +501,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats-plus-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
@@ -577,11 +561,6 @@ hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
 metafile = true
 
 [[files]]
-file = "mods/create-confectionery.pw.toml"
-hash = "33018abac3d5d96ba7774d9666a0f5d769974dd5c32487308f74744da3f1bcca"
-metafile = true
-
-[[files]]
 file = "mods/create-configurables.pw.toml"
 hash = "bd2f13257bd4affeafe1e4613701ff431176f8ece39761cfb8e01e75544ee38b"
 metafile = true
@@ -594,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
@@ -647,18 +621,8 @@ hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
 metafile = true
 
 [[files]]
-file = "mods/create-mechanical-chicken.pw.toml"
-hash = "bc5c6f8ea0e3a739da6977506ebeece414c737066660134d3c2469be94677618"
-metafile = true
-
-[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
-metafile = true
-
-[[files]]
-file = "mods/create-mixed-casing.pw.toml"
-hash = "f9c3390fd46f6a64e0620264b5a4812d034f00a99aed25e735fae2081979fbb2"
 metafile = true
 
 [[files]]
@@ -702,16 +666,6 @@ hash = "f14ab00e7678ba29914b0d1a45a9e200ced324886dc41f2a3f1001a7a80ae67d"
 metafile = true
 
 [[files]]
-file = "mods/create-trading-floor.pw.toml"
-hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
-metafile = true
-
-[[files]]
-file = "mods/create-train-parts.pw.toml"
-hash = "09cb6e7676473c7394811162cb35684b11db4b1eb6d680fd7d9956c668f24864"
-metafile = true
-
-[[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "d7b1c9e2be79cc491f7e83d5b89c4a5f7ad0b28f821092ec09419c60de79d7f4"
 metafile = true
@@ -739,11 +693,6 @@ metafile = true
 [[files]]
 file = "mods/create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar"
 hash = "09fe1908ab59bb019d2fa3125c38ea893fdd093ae3e75671cc3c2a2327e6255d"
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "e5052e0fcba9af1e3c6c0734829b441bc5a23012108bf203ca01825ca12ff6b1"
-metafile = true
 
 [[files]]
 file = "mods/createlazytick.pw.toml"
@@ -986,11 +935,6 @@ hash = "080f88eb1f74b14604c3c00af84cee515df4679577929ba9694707c2e86daf9d"
 metafile = true
 
 [[files]]
-file = "mods/lightmans-currency.pw.toml"
-hash = "fd7402b385c133630eea8f1ab08dd64983e996f10df850791144cbfb2093e37d"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "8fcf9b022a79aeabcd6b22dce076f9523f5d030e425a085902482201de3d2f0e"
 metafile = true
@@ -1051,11 +995,6 @@ hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "616a78e83977651454abca863e6ec9766ea4ce8d559269cd4a7d9aa8bf0223aa"
-metafile = true
-
-[[files]]
 file = "mods/modded-votifier.pw.toml"
 hash = "2b4e72c2c53990c324ca1819a301dd14b584607d847b2cdefb152a8855a6fe2b"
 metafile = true
@@ -1106,13 +1045,13 @@ hash = "042ef7d5045fe8b1b34a0169bd4b01067b866c815c74cc3ee171a8803bdc0575"
 metafile = true
 
 [[files]]
-file = "mods/no-see-no-tick.pw.toml"
-hash = "a651cdc9954050ee91291e88c3c546c51758e2803bff785614ee87feb14ae10b"
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+file = "mods/numismatics.pw.toml"
+hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
 
 [[files]]
@@ -1187,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "6bee7be8af8f9247fbf84dcd1ec9af2adaa42e55d52ab8a5bfe9b6ff7c94da46"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
 metafile = true
 
 [[files]]
@@ -1294,11 +1238,6 @@ hash = "5057d843aaf34b7d79dcec6cc60d2272e76d6266a99ddb0d7ea7a6161aadb2e3"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "848923e74def7cd3996f95ac7f6a9c3fe47c3030f43ae650a74b0a77df96ee49"
-metafile = true
-
-[[files]]
 file = "mods/sound.pw.toml"
 hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
@@ -1311,6 +1250,11 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "e97c3821f1808529c63e802ad83c2c1579a3f2abae2092789acedf6a176eecf0"
+metafile = true
+
+[[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "caf14033b1131c76913431c89140d8b970d08d7d5b11af8b4a1039d82cb6a3fe"
 metafile = true
 
 [[files]]
@@ -1336,11 +1280,6 @@ metafile = true
 [[files]]
 file = "mods/taurine-1.0-SNAPSHOT.jar"
 hash = "0e9f4cb889689e9eb825f86a405189c3d5fd9b1be482e38e5ca8eea414836745"
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "236e9cf3b43c2ed9169f14b32919bbd6497dcc94ba8d511de9e97ac5ff80dfab"
-metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
