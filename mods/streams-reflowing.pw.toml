@@ -1,6 +1,6 @@
 name = "Streams Reflowing"
 filename = "StreamsReflowing-1.21.1-neoforge-2.16.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oLS8HdJ1/versions/4LJBMyPK/StreamsReflowing-1.21.1-neoforge-2.16.2.jar"
