@@ -1,0 +1,4 @@
+#Say in chat what's new, once, the first time you join a world after installing or updating to a new version.
+announceUpdates = false
+#The last version announced. Managed by the mod.
+lastAnnouncedVersion = "0.7.0"
