@@ -174,7 +174,7 @@ hash = "cb35e6da0531fdaf9ab55f6f04db685646adcf71e835f8984334f0bf4518c802"
 
 [[files]]
 file = "config/simple-custom-early-loading/StargazingNikoAndAda.jpeg"
-hash = "13274692bf82f8d6d9698679c29fa37290dd6ed7b283559428c8bc861eb40f7b"
+hash = "25440ccdd431d05d6c3210d8bd9d5bc814db4b4241f591d4cb1fb4f9d826bf7a"
 
 [[files]]
 file = "config/simple-custom-early-loading/title.apng"
@@ -183,10 +183,6 @@ hash = "de65c74a8ac352e411a3134d27b05285f15e234613e87cc43df1fab72b6abe30"
 [[files]]
 file = "config/sodium-extra-options.json"
 hash = "b7a321f1f0868eeb9a261fe8789797dacf6449dfa1167c108b6005a4bcb7a2d9"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sodium-mixins.properties"
