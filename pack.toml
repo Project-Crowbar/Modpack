@@ -1,6 +1,6 @@
 name = "Project Crowbar"
 author = "Nikk"
-version = "261106"
+version = "261107"
 pack-format = "packwiz:1.1.0"
 
 [index]
