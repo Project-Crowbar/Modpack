@@ -309,24 +309,8 @@ file = "kubejs/assets/emi/index/stacks/hidden_stacks.json"
 hash = "a3430b1f9634a5347128a49ff5f75de64632b7f717114863c3a48d46d1afc66a"
 
 [[files]]
-file = "kubejs/assets/prcb/textures/item/peanut_butter_honey.png"
-hash = "057056695ccc475a61b0c1790f760ed89fc9eaad30af069f74f58c55afd79f6f"
-
-[[files]]
-file = "kubejs/assets/prcb/textures/item/prcb_cookie.png"
-hash = "299e1d1373d20317b6e262059a9aa2f50c29228cb26307b9417f819a9345df03"
-
-[[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "39081fee95c19b4503334a7c680ed5207a106276553ecb5983d8a653a98e3215"
-
-[[files]]
-file = "kubejs/startup_scripts/item/peanut_butter_honey.js"
-hash = "226c5f6454023b58358ab660b44d4a048cda22a6f7d89f3c5a474c6ccd5f2d70"
-
-[[files]]
-file = "kubejs/startup_scripts/item/prcb_cookie.js"
-hash = "4570fc01ad99011719317bb27791932a1ff2a2a32c4ae5f7b2307d1443a6d3bf"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -583,18 +567,8 @@ hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
-metafile = true
-
-[[files]]
 file = "mods/create-easyfilling.pw.toml"
 hash = "ca453d26136bdedfdc46fe31a20019e2d8a2e4743cb69078348684f91fa64599"
-metafile = true
-
-[[files]]
-file = "mods/create-electro-energetics.pw.toml"
-hash = "d9da6eb607351b0667e98eca68ff3fe3e5106cded14cb9c089147528d2fc35bb"
 metafile = true
 
 [[files]]
@@ -610,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "b453da2f0b7acfd75d9bfb12f9dcad50211a0b25040c894f00736b913c18a339"
 metafile = true
 
 [[files]]
@@ -792,11 +771,6 @@ hash = "b9c7e06aaedf28d4f5fd4d002aa290b755bea76a9c2c0012a4a46efea1a3ef7d"
 metafile = true
 
 [[files]]
-file = "mods/extradelight.pw.toml"
-hash = "d3cb20ad2dc8cdbf989751ad22ca4192782f68487e5e8c05e0a3f5a88d52780c"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "0b53c7f23b131ac417c3188b1503a516f18982e0913492ce70964f9781634a21"
 metafile = true
@@ -864,11 +838,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
-metafile = true
-
-[[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "60bc5f39269cc9b2f93611526c62a0ce8600dd211c5b683f485e6e921e352686"
 metafile = true
 
 [[files]]
