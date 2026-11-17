@@ -305,14 +305,6 @@ file = "config/xaerohud.txt"
 hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
 
 [[files]]
-file = "kubejs/assets/emi/index/stacks/hidden_stacks.json"
-hash = "a3430b1f9634a5347128a49ff5f75de64632b7f717114863c3a48d46d1afc66a"
-
-[[files]]
-file = "kubejs/config/defaultoptions.txt"
-hash = "39081fee95c19b4503334a7c680ed5207a106276553ecb5983d8a653a98e3215"
-
-[[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
 hash = "8f8eb1088e765267a05f28f6617ba40f8d3fba6662b6c816a5cf97692e4f8c79"
 
@@ -866,11 +858,6 @@ hash = "4623bbc102dd3b7648a96569a1ab49b868774d46355b305ac40c4c79ad1c74e2"
 metafile = true
 
 [[files]]
-file = "mods/isskjs.pw.toml"
-hash = "57db227711481c9b6fbc89a5ea04f2810c9f27035baa7f33437a80a94ae9609f"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "24d27cb3caf022e154386e473bcca80e15d6ce18fa8e1367b6f9b4dc1594b446"
 metafile = true
@@ -897,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+hash = "bf80b15e92f036ac9162729d3a36f1ff6d4f6f14f07eecbf7fe078cce8738389"
 metafile = true
 
 [[files]]
@@ -1116,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+hash = "a178e820ddb4152e49f423440e8030e04a1d14e50ce3462db4658eeeb77d8793"
 metafile = true
 
 [[files]]
