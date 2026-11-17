@@ -1,6 +1,6 @@
 name = "Rhino"
 filename = "rhino-2101.2.7-build.85.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk9knFPE/versions/cQ4POTah/rhino-2101.2.7-build.85.jar"

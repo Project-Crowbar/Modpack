@@ -1,6 +1,6 @@
 name = "KubeJS"
 filename = "kubejs-neoforge-2101.7.2-build.377.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/umyGl7zF/versions/THIGFPwf/kubejs-neoforge-2101.7.2-build.377.jar"
