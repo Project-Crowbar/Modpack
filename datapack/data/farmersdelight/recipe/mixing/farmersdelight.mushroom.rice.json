@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:red_mushroom"
+        },
+        {
+            "item": "farmersdelight:rice"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:mushroom_rice"
+        }
+    ]
+}

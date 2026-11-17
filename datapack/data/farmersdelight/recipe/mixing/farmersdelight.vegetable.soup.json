@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:vegetable_soup"
+        }
+    ]
+}

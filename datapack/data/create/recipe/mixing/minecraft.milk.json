@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "minecraft:water"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:calcite"
+    }
+  ],
+  "results": [
+    {
+      "amount": 80,
+      "id": "minecraft:milk"
+    }
+  ]
+}

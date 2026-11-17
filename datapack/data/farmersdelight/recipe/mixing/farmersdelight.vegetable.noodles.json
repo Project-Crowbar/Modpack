@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "c:mushrooms"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "c:foods/vegetable"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:vegetable_noodles"
+        }
+    ]
+}

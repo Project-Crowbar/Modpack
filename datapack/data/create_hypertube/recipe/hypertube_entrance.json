@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "create:chute"
+    },
+    "G": {
+      "item": "create:cogwheel"
+    },
+    "K": {
+      "item": "minecraft:dried_kelp"
+    },
+    "B": {
+      "item": "create:brass_ingot"
+    }
+  },
+  "pattern": [" K ", "BCB", " G "],
+  "result": {
+    "count": 1,
+    "id": "create_hypertube:hypertube_entrance"
+  }
+}

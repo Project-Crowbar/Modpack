@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "item": "farmersdelight:rice"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:cooked_rice"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "supplementaries:pancake"
+  },
+  "result": {
+    "count": 1,
+    "id": "etched:blank_music_disc"
+  }
+}

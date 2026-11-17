@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "E",
+        "C"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone_torch"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "C": {
+            "item": "minecraft:chain"
+        }
+    },
+    "result": {
+        "id": "drivebywire:wire",
+        "count": 3
+    }
+}

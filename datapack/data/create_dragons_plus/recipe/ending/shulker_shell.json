@@ -1,0 +1,14 @@
+{
+    "type": "create_dragons_plus:ending",
+    "ingredients": [
+        {
+            "item": "create:iron_sheet"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:shulker_shell",
+            "count": 1
+        }
+    ]
+}

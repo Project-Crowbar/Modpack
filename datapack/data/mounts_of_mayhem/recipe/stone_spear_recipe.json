@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [" aa", " ba", "b  "],
+  "key": {
+    "a": {
+      "tag": "minecraft:stones"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "mounts_of_mayhem:stone_spear",
+    "count": 1
+  }
+}

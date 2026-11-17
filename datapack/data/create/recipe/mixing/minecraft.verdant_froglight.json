@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:snow_block"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 50,
+      "fluid_tag": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:verdant_froglight"
+    }
+  ]
+}

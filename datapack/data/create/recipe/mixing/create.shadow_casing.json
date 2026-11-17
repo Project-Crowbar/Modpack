@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "dndesires:industrial_casing"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:shadow_steel_casing"
+    }
+  ]
+}

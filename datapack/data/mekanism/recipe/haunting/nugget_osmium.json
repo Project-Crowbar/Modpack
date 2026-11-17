@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "create:scorchia"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.25,
+      "id": "mekanism:nugget_osmium"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "tag": "c:foods/safe_raw_fish"
+        },
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "farmersdelight:tomato"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:squid_ink_pasta"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "dndesires:seething",
+  "ingredients": [
+    {
+      "item": "createpropulsion:platinum_nugget"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.5,
+      "id": "mekanism:nugget_osmium"
+    }
+  ]
+}

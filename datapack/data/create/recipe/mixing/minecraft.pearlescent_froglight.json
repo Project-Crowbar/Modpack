@@ -1,0 +1,37 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 50,
+      "fluid_tag": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:pearlescent_froglight"
+    }
+  ]
+}

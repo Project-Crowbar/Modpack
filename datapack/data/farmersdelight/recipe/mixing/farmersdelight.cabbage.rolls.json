@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "c:mushrooms"
+        },
+        {
+            "tag": "c:foods/raw_meat"
+        },
+        {
+            "tag": "c:foods/vegetable"
+        },
+        {
+            "tag": "c:foods/safe_raw_fish"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:cabbage_rolls"
+        }
+    ]
+}

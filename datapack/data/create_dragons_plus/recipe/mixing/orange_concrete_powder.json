@@ -1,0 +1,60 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "create_dragons_plus:orange_dye"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "id": "minecraft:orange_concrete_powder"
+    },
+    {
+      "id": "minecraft:orange_concrete_powder"
+    }
+  ]
+}

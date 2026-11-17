@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_cod"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "item": "farmersdelight:tomato"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:baked_cod_stew"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_chicken"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "c:foods/vegetable"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:chicken_soup"
+        }
+    ]
+}

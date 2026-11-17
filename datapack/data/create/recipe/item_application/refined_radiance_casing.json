@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "createpropulsion:platinum_casing"
+    },
+    {
+      "item": "mekanism:ingot_refined_glowstone"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:refined_radiance_casing"
+    }
+  ]
+}

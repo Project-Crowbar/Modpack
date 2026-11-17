@@ -1,0 +1,17 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "blockIngredients": {
+    "first": {
+      "blocks": "minecraft:moss_block"
+    },
+    "second": {
+      "blocks": "minecraft:water"
+    }
+  },
+  "catalyst": {
+    "blocks": "minecraft:stone"
+  },
+  "result": {
+    "id": "minecraft:dirt"
+  }
+}

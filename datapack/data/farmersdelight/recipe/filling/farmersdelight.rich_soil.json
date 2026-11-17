@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "farmersdelight:organic_compost"
+        },
+        {
+            "type": "neoforge:single",
+            "amount": 100,
+            "fluid": "create_things_and_misc:diluted_bonemeal"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:rich_soil"
+        }
+    ]
+}

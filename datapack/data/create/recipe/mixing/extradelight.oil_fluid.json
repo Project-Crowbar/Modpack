@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 100,
+      "fluid": "createaddition:seed_oil"
+    },
+    {
+      "item": "garnished:crushed_salt"
+    }
+  ],
+  "results": [
+    {
+      "amount": 150,
+      "id": "extradelight:oil_fluid"
+    }
+  ]
+}

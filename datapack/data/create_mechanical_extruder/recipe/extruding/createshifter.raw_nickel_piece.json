@@ -1,0 +1,31 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "blockIngredients": {
+    "first": {
+      "blocks": "minecraft:water"
+    },
+    "second": {
+      "blocks": "tfmg:sulfuric_acid"
+    }
+  },
+  "requirements": [
+    {
+      "type": "mechanicals:min_y",
+      "value": -60
+    },
+    {
+      "type": "mechanicals:max_y",
+      "value": -55
+    }
+  ],
+  "catalyst": {
+    "blocks": "tfmg:nickel_block"
+  },
+  "consumeBlocks": {
+    "first": true,
+    "second": true
+  },
+  "result": {
+    "id": "createsifter:raw_nickel_piece"
+  }
+}

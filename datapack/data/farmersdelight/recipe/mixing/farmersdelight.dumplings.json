@@ -1,0 +1,33 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "tag": "c:foods/dough"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "tag": "c:foods/raw_pork"
+        },
+        {
+            "tag": "c:foods/raw_chicken"
+        },
+        {
+            "tag": "c:foods/raw_beef"
+        }
+    ],
+    "results": [
+        {
+            "id": "farmersdelight:dumplings",
+            "count": 2
+        }
+    ]
+}

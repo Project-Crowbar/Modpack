@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_block"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "chance": 1,
+      "id": "minecraft:bone"
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:bone"
+    }
+  ]
+}

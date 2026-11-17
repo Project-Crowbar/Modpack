@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "item": "minecraft:bread"
+        },
+        {
+            "type": "neoforge:tag",
+            "tag": "c:drinks/milk"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:onion_soup",
+            "count": 1
+        }
+    ]
+}

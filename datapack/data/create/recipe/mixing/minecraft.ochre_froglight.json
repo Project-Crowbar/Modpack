@@ -1,0 +1,34 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:orange_dye"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "item": "minecraft:honey_block"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 50,
+      "fluid_tag": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:ochre_froglight"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "create_dragons_plus:black_dye"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:black_concrete_powder"
+    },
+    {
+      "id": "minecraft:black_concrete_powder"
+    },
+    {
+      "id": "minecraft:black_concrete_powder"
+    },
+    {
+      "id": "minecraft:black_concrete_powder"
+    },
+    {
+      "id": "minecraft:black_concrete_powder"
+    },
+    {
+      "id": "minecraft:black_concrete_powder"
+    },
+    {
+      "id": "minecraft:black_concrete_powder"
+    }
+  ]
+}

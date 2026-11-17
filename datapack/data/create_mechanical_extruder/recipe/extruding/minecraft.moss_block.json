@@ -1,0 +1,14 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "blockIngredients": {
+    "first": {
+      "blocks": "minecraft:water"
+    },
+    "second": {
+      "blocks": "farmersdelight:rich_soil"
+    }
+  },
+  "result": {
+    "id": "minecraft:moss_block"
+  }
+}

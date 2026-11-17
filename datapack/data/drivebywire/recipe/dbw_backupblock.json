@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RBR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ender_pearl"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "B": {
+            "item": "minecraft:bookshelf"
+        }
+    },
+    "result": {
+        "id": "drivebywire:backup_block",
+        "count": 1
+    }
+}
