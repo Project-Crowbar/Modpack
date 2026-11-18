@@ -106,7 +106,7 @@ hash = "bff08391a81b57941c5f0e7bcee38ddab773282c42fe742b0a3c2a3329fa82c7"
 
 [[files]]
 file = "config/fancymenu/customization/prcb_titlescreen.txt"
-hash = "e6c3f11cc1e65d6d4fd9ef37f8f1d0d545060332bcf4da4d98c544c7fae77f89"
+hash = "c8fd728367306fa6216c56c00b8c2648692e99fbd508dded5ee4106088675e80"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -334,7 +334,7 @@ hash = "299e1d1373d20317b6e262059a9aa2f50c29228cb26307b9417f819a9345df03"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "de6f3166912879dc0c19dee4fa618e44900c3f135d17b8e9dbaaa23272017bbf"
+hash = "39081fee95c19b4503334a7c680ed5207a106276553ecb5983d8a653a98e3215"
 
 [[files]]
 file = "kubejs/startup_scripts/item/peanut_butter_honey.js"
