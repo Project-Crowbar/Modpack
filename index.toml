@@ -29,134 +29,6 @@ file = "config/dsurround/soundconfig.json"
 hash = "fb67b3e2dbc0269fbd84263fc388b89b42d92b1ffd88b41ffadbd2dacd485421"
 
 [[files]]
-file = "config/fancymenu/assets/LICENSE"
-hash = "cb35e6da0531fdaf9ab55f6f04db685646adcf71e835f8984334f0bf4518c802"
-
-[[files]]
-file = "config/fancymenu/assets/icons/favicon-16x16.png"
-hash = "a60c9ba1d910e525b1beaafe49be353475dec970051fe7d5cb98c1f7be0747f5"
-
-[[files]]
-file = "config/fancymenu/assets/icons/favicon-32x32.png"
-hash = "f669a6fea0548aa04bcfe42077c08bc6054c4d89743cbfeadcb1c3c93dabb890"
-
-[[files]]
-file = "config/fancymenu/assets/icons/favicon-mac.icns"
-hash = "a2f4c7ddfc53bcd7d51905b571574464c696d3df680c2d3e9d5bd9a6f5619109"
-
-[[files]]
-file = "config/fancymenu/assets/music/petals_at_dawn.ogg"
-hash = "00d2fa6f90471b969095c245571acb2d3181c1f10214184a41bce31d702c3e25"
-
-[[files]]
-file = "config/fancymenu/assets/music/project_crowbar.ogg"
-hash = "ce37f7ddf52b024573b2a2b7b3d56cc4f6cebb8d3f7cd3c5d3b7eca12a11baea"
-
-[[files]]
-file = "config/fancymenu/assets/title.png"
-hash = "90c290f0eda0db8c928d2831b49ba3d0273008289290d40f505f1963efff7f4a"
-
-[[files]]
-file = "config/fancymenu/audio_element_controller_metas.json"
-hash = "fc6b973bc3c214395f0bc0081b8ce3224a859be38d8c55609fec422ab12819b1"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "3cac1c9947428f08ad5997eb51e6bd444ada5da19ad403a570874934fa19cb32"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_chat.txt"
-hash = "6d07bda653392ebf9f45c252170e818d176b047a33d7f5effae14da5718dc40c"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_connect_screen.txt"
-hash = "5262d4f3f6b2abb89171237c5746f1cc25ded7154aeaa9bae7821ad4061df15a"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_create_world.txt"
-hash = "ef73c31d0ccffcd05b557f1132bcf90d960764c40dfa4df7cc01a4346ce2a585"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_disconnected_screen.txt"
-hash = "42952684172d79cffe951220ab58a8305de5e275a911b4029db6ea0e08773ba0"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_loading_terrain.txt"
-hash = "72717a28b1ff4d31d100e72a76c27d3a5b64f3c87f0586a31a11a7f0fcaa5383"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_multiplayer.txt"
-hash = "53e23da1d3222ff5ac626753b9c8c45d5d80a7f4575f57d972db7a4ea28b90a0"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_select_world.txt"
-hash = "9a9e9b665545a92e5b97e61b362baac17c73f1473976e7716980c5bb1aa4fde4"
-
-[[files]]
-file = "config/fancymenu/customization/prcb_titlescreen.txt"
-hash = "8556c0f767c37211ef6952d9781692d97051b815d6fef0322fe1e3efbbd6f9cb"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/normalized_scroll_screens.json"
-hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "f563e890058e4ae4e3f1640353d257ceef15f9ea841946f3489c4ffa6b0ec49d"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cherry_blossom.json"
-hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
-
-[[files]]
-file = "config/fancymenu/ui_themes/cozy_campfire.json"
-hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark_high_contrast.json"
-hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light_high_contrast.json"
-hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
-
-[[files]]
-file = "config/fancymenu/ui_themes/pumpkin_soup.json"
-hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
-
-[[files]]
-file = "config/fancymenu/ui_themes/purple_void.json"
-hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
-
-[[files]]
-file = "config/fancymenu/ui_themes/spooky_season.json"
-hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
 file = "config/flywheel-client.toml"
 hash = "6ece287c043cde6f7a2a92b77aa65004b4a79a3190d778a1641d3cf21fb63bad"
 
@@ -644,6 +516,11 @@ hash = "7973bc01f9a588e81e3b33f68669fcc1777f96422c9066a565370a438ff36551"
 metafile = true
 
 [[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "0066bc1ea4d1d479319614685f6ee93f227a985183e067264272762bd90a8a7b"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -760,11 +637,6 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "b9c7e06aaedf28d4f5fd4d002aa290b755bea76a9c2c0012a4a46efea1a3ef7d"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "0b53c7f23b131ac417c3188b1503a516f18982e0913492ce70964f9781634a21"
 metafile = true
 
 [[files]]
@@ -1063,8 +935,8 @@ hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
 
 [[files]]
-file = "mods/prcbcore-261105.jar"
-hash = "cb06a89a9c86c2911465eef2ea3ff51681bd8139a8f61935c5ce3f16213c945b"
+file = "mods/prcbcore-261118.jar"
+hash = "45652389b293f728b74257acd438a38d827866d33adb81d08882669ddd193859"
 
 [[files]]
 file = "mods/prickle.pw.toml"
