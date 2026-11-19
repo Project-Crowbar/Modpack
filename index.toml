@@ -191,6 +191,11 @@ hash = "3ef06116165a362b37e3622e4b78b49b33a5d8707d38c2243b2014f9ba35fa01"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "73576662287c48ef64866be14445a6e8b52829a1da6e65800d0917f813206220"
+metafile = true
+
+[[files]]
 file = "mods/aeroclaims.pw.toml"
 hash = "78137effbcf3f8d93f64aa10f365a225b8439c0a0f49ea61cd99d4d6836aaeb1"
 metafile = true
@@ -523,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
-metafile = true
-
-[[files]]
-file = "mods/create_collision_fix.pw.toml"
-hash = "0ec765b6928a803c99807cbee3bed4060a28902c94ded608f2cd4c8f40a62793"
 metafile = true
 
 [[files]]
@@ -935,8 +935,8 @@ hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
 
 [[files]]
-file = "mods/prcbcore-261118.jar"
-hash = "45652389b293f728b74257acd438a38d827866d33adb81d08882669ddd193859"
+file = "mods/prcbcore-261119.jar"
+hash = "ffa11d562cf73736cb43b5a99cf9884c12729966a590cbf5e92068c7203312fd"
 
 [[files]]
 file = "mods/prickle.pw.toml"
