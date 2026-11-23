@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "de0dac3cc910672d3594bf1bb1b111f0a8172e03edad122ac5228b8b06a65fc9"
 
 [[files]]
-file = "config/ars_nouveau-client.toml"
-hash = "ced071866bbd252acbe3595b4288e28c011429878c0e4e6a1490c0f3a4eb3d3d"
-
-[[files]]
 file = "config/chat_heads.json5"
 hash = "da047f212b4db2e6bdb8232f1ceebc92f6e734c4782475487c3fb93f97f89628"
 
@@ -53,24 +49,8 @@ file = "config/simple-custom-early-loading/title.apng"
 hash = "de65c74a8ac352e411a3134d27b05285f15e234613e87cc43df1fab72b6abe30"
 
 [[files]]
-file = "config/sodium-extra-options.json"
-hash = "b7a321f1f0868eeb9a261fe8789797dacf6449dfa1167c108b6005a4bcb7a2d9"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
-
-[[files]]
 file = "config/soundconfig.json"
 hash = "8d51f1b3185760959238efc0dd86ad1f239b4f98386e76a4bf4b54ad1f5b75be"
-
-[[files]]
-file = "config/soundphysics.properties"
-hash = "9692d6d938adce776761f79b1b8b101390f7ce5ae7e712ae9a656696d0a7a049"
 
 [[files]]
 file = "config/sounds/chat.json"
@@ -95,86 +75,6 @@ hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 [[files]]
 file = "config/streamsreflowing.properties"
 hash = "926bfc1ee23bbc4a938d227a33689afea8f211a6d2374d11a8c1569c85742d05"
-
-[[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaero/minimap/client.cfg"
-hash = "0356c5b6de0959751f14a662f37ad9997c9d3d5c5200c06514bf8bbff84b858d"
-
-[[files]]
-file = "config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81"
-
-[[files]]
-file = "config/xaero/minimap/profiles/entity_radar_categories/project_crowbar.cfg.json"
-hash = "88d7c2c4b88a5264f4bbf6ec9c6c70532f177182402f9d4b459eb7745eb170de"
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/project_crowbar.cfg.txt"
-hash = "bb9984a600b974303d3d211af239e00e38cd72f4da45a6fcad7019ab6ce1992c"
-
-[[files]]
-file = "config/xaero/minimap/profiles/project_crowbar.cfg"
-hash = "1b8b27e039a1b30068d16ab84a15d0c18f27c5fbd8fe0f73779532e02aa7ca07"
-
-[[files]]
-file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaero/world-map/client.cfg"
-hash = "b14a195bc03fe6802ce267c220ac434b2bb9106915d8557cfa57c2ed61ef5f42"
-
-[[files]]
-file = "config/xaero/world-map/common.cfg"
-hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
-
-[[files]]
-file = "config/xaero/world-map/profiles/default.cfg"
-hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
-
-[[files]]
-file = "config/xaero/world-map/profiles/project_crowbar.cfg"
-hash = "c9250b7659725eeb4793e98a6e06024ea9128d44e534de80e85fcbeec98bf5c7"
-
-[[files]]
-file = "config/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaerohud.txt"
-hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
 
 [[files]]
 file = "mods/SimpleCustomEarlyLoading-2.0-neoforge.jar"
@@ -247,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+hash = "3cf32b026c0487a881ce5eb868ae26221200a6b6909a531c6ebcc696425e2e3f"
 metafile = true
 
 [[files]]
@@ -421,6 +321,11 @@ hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
@@ -463,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "f341b8307a3a9efd08d777fb4e572351ca0dac96a280efbd6ecb0e838420f905"
 metafile = true
 
 [[files]]
@@ -745,11 +655,6 @@ hash = "975be465529c6ef43ff736f0f08a226f0de6a8b9d99fdc289c08f2f814100083"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "5707b722541648df013644f3b4d50083c77965d536f219df9fac5026f6103777"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
@@ -815,11 +720,6 @@ hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
-hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
-metafile = true
-
-[[files]]
 file = "mods/modded-votifier.pw.toml"
 hash = "2b4e72c2c53990c324ca1819a301dd14b584607d847b2cdefb152a8855a6fe2b"
 metafile = true
@@ -857,16 +757,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-restrictions.pw.toml"
-hash = "042ef7d5045fe8b1b34a0169bd4b01067b866c815c74cc3ee171a8803bdc0575"
 metafile = true
 
 [[files]]
@@ -935,12 +825,12 @@ hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
 
 [[files]]
-file = "mods/prcbcore-261119.jar"
-hash = "ffa11d562cf73736cb43b5a99cf9884c12729966a590cbf5e92068c7203312fd"
+file = "mods/prcbcore-261122.jar"
+hash = "69135d0b944b843171b5157d493f0289cc88dc0beed4575f5b9c84300aadd02a"
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+hash = "68fc1e81687d3381ddf2c19ed430fbe773eabda303bef5586bec6c0c3baea883"
 metafile = true
 
 [[files]]
@@ -1159,11 +1049,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
