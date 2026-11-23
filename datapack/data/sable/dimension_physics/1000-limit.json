@@ -1,0 +1,35 @@
+{
+	"dimension":"minecraft:overworld",
+	"pressure_function":[
+	{
+		"altitude": -38,
+		"value": 1.5,
+		"slope":-0.006
+	},
+	{
+		"altitude": 63,
+		"value": 1.0,
+		"slope":-0.004
+	},
+	{
+		"altitude": 280,
+		"value": 0.4,
+		"slope":-0.0016
+	},
+	{
+		"altitude": 450,
+		"value": 0.2,
+		"slope":-0.0008
+	},	
+	{
+		"altitude": 900,
+		"value": 0.04,
+		"slope":-0.00015
+	},
+	{
+		"altitude": 1000,
+		"value": 0,
+		"slope":-0.0008
+	}
+	]
+}
