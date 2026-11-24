@@ -775,11 +775,6 @@ hash = "f9cfe1c9c47eef3adabf8706e2a026e0fedce2dd4f31fabe10b8b892819e72a7"
 metafile = true
 
 [[files]]
-file = "mods/opac-bonus-claims.pw.toml"
-hash = "ebf498efc7d46c761dbef61bf69af37500c962fbf7d8aa8cd86f153ccb77e2b7"
-metafile = true
-
-[[files]]
 file = "mods/opac-mute-claim-warnings.pw.toml"
 hash = "5688bc4a110443fb6d8821399f7b24866c72fba0363ecc998728336f016d42bb"
 metafile = true
