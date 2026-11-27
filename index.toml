@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "63c2ddce7adb7f31fcda50529006fc590be0ce973385242add2a141e30bd18f4"
+hash = "f07d8242b916990eb13228792d6aa7c2559b9661c754eb2a518a79864ccac503"
 metafile = true
 
 [[files]]
@@ -361,6 +361,11 @@ hash = "2dfd75dc868b7f72dea38cc4df954886a62fe3652ab90afdedc0031ce7372a01"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "8d9f6438c0e03857f55b3b6fe2383fb8393c01c8d41012cf5032fdedd184575a"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "055a23471c72576d1f79e2edcd6a20bcaa59ac70c84480fc10069c6469b3f528"
 metafile = true
@@ -461,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "df853c80197aed779250a40af0432d9ee945c528edf0d8c829243af25113889a"
+hash = "16d93c68a816d518f37de50ead67d7b9731b0ec8d4f83e4b26dc56f0af97f3b4"
 metafile = true
 
 [[files]]
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e622857e271e0ebd3d80f84f8230474d76f0150354cb06832deac2134448cbcb"
+hash = "9ba9429afe373ac3b955325120adfd18d5cb342db0f7e12fb7774839a05c587d"
 metafile = true
 
 [[files]]
@@ -488,6 +493,10 @@ metafile = true
 file = "mods/dynamicsurroundingsfabric.pw.toml"
 hash = "bb35e0972b8ae7421f991f92b066c2915c1f2e05655e33263d29e3bb7b6f5c47"
 metafile = true
+
+[[files]]
+file = "mods/effortlessbuilding-neoforge-1.21.1-4.2.jar"
+hash = "653d8d574199111b28c72109973aefce1197699493c6c8714da1368bb7f47e0c"
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
@@ -516,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "8f76b294a1e5062de43765e05fa4159ec57e7e52c1cd3b7f1bfa3f38dca4ae0e"
+hash = "e325b7bf8868da4d54f47064ccbb881a268d0e8b8d3ebaacc4317824bdc18e5d"
 metafile = true
 
 [[files]]
@@ -591,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0a933e834f0f816c326d0abeafaf1aa60310e2a5bc89bc67826cd1ffffce19c9"
+hash = "90c779c96cbee752edc819258caaa6912d8decaff4befc66a0ec170b24a3fdd1"
 metafile = true
 
 [[files]]
@@ -611,17 +620,17 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-furniture.pw.toml"
-hash = "187bce336ba1aec2721d2cd27da1f5efb42b37c4fa3ae5d7747f104e04f20c10"
+hash = "c91a78d5e14df89649e3904b8f89280412034701e0c92ad3071e18f4efef7b5c"
 metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "2d493d3343bb82fb448f107a7846e0cc14b06c8195cf8b6b42c445f2e1a6759b"
+hash = "dd239880a69e2ced3e190de4b2e4397552c019ed7139464eac31f8bab187c168"
 metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "a46a4220e4d467208a042ccd05cc8c2908733f02da6f5ecd532ab4cb2ed72909"
+hash = "53bf2dc4b6a32f8feb4aa56b53f16ef01892a25b0acaf992366f178424d3b9e8"
 metafile = true
 
 [[files]]
@@ -726,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b14b3d7f88512f23bccca8e2f133e52e84307679b6eba4e818ce13e8f87e503d"
+hash = "f1bfac09f701fe8ac07b10bfc3c811e951611c770cd62b4d8b60eb4ead939ef6"
 metafile = true
 
 [[files]]
@@ -816,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/prcbcore-261123.jar"
-hash = "e89db1ee135becd3260c1960c78c6bf93788dc5fe1f20885921a154c9d4f4a74"
+hash = "59d4fb5bf9ad2c1e47d7240d1c957a9d69c7148d706ba89b9f96b310c8613d60"
 
 [[files]]
 file = "mods/prickle.pw.toml"
@@ -934,17 +943,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0a1237788f895c3a856423c1c7e60a11396c42e7526604543382237ada1aceff"
+hash = "65c41d1b44beac0643b10129ec2d6b60f456e8a55c6acf1740a932d39496b973"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "3d71ac9484fbf77d941c272d87ccd7c9e87364574a167c338b7bcacd1e1063f6"
+hash = "46ad522d2bea5cc3ab33b826b6c0b6406e4e1e3c4ebc133d69cb0e4b6ebd3dfc"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "589ce9acb7d0fd2cb2323d871daba07615f5b7b5ed6a06cfa813740a4012c2fa"
+hash = "9793c029df34ef518f8333563e225d1b683fc5256ca5caf0fbb2fb3bd4d2e3cb"
 metafile = true
 
 [[files]]
