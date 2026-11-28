@@ -873,11 +873,6 @@ hash = "fdc6fe65500173201eafb23bb095ef3479d2e65d796864ef83369b8f4384eef0"
 metafile = true
 
 [[files]]
-file = "mods/sable-far-and-wide.pw.toml"
-hash = "d5f8a91c0f5f56dac67f72edb5cdf508d6b004c12c6b302032ab676c703926de"
-metafile = true
-
-[[files]]
 file = "mods/sable-neoforge-1.21.1-2.0.6.jar"
 hash = "39eeb3ac9558c9b14c2e960894ad1e469b4d883ba0a782fddf6cc1b7336def1a"
 
